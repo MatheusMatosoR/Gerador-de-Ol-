@@ -11,10 +11,7 @@ h1 {
     color: black;
 }
 button {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
+    margin: 0 auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: aquamarine;
     font-size: small;
