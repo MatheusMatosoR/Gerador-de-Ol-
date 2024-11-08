@@ -19,5 +19,6 @@ button {
     border: none;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: medium;
+    width: 100%;
     
 }
