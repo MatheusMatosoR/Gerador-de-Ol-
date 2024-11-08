@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+}
+
+
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: center;
+    color: aliceblue;
+}
+button {
+    padding: 15PX 30px;
+    background-color: pink;
+    border: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+
+}
