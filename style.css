@@ -11,6 +11,10 @@ h1 {
     color: black;
 }
 button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: aquamarine;
     font-size: small;
@@ -19,4 +23,5 @@ button {
     border-radius: 8px;
     cursor: pointer;
     border: none;
+    
 }
