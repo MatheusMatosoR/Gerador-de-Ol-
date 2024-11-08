@@ -11,14 +11,12 @@ h1 {
     color: black;
 }
 button {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 5px 5pc;
-    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aquamarine;
+    font-size: small;
+    text-align: center;
+    padding: 20px 30px;
+    border-radius: 8px;
+    cursor: pointer;
     border: none;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: medium;
-    width: 50%;
-    
 }
