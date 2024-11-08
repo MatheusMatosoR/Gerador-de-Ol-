@@ -5,16 +5,16 @@ body {
 
 
 h1 {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
     text-align: center;
-    color: aliceblue;
+    color: black;
 }
 button {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px 30pc;
+    padding: 10px 20pc;
     background-color: pink;
     border: none;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
