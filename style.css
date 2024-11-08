@@ -10,6 +10,11 @@ h1 {
     text-align: center;
     color: black;
 }
+.botão {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
 button {
     margin: 0 auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
