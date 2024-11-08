@@ -11,7 +11,9 @@ h1 {
     color: aliceblue;
 }
 button {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 20px 30pc;
     background-color: pink;
     border: none;
