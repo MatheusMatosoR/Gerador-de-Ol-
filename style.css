@@ -11,11 +11,10 @@ h1 {
     color: aliceblue;
 }
 button {
-    padding: 15PX 30px;
+    text-align: center;
+    padding: 20px 30pc;
     background-color: pink;
     border: none;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: medium;
-    text-align: center;
-
 }
